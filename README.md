@@ -6,7 +6,7 @@ For over 10 years, I've been helping businesses and individuals establish their 
 ## My Live Projects 
 Here are a few websites I have built and deployed. My role in these projects involved everything from  initial setup and design to customization and launch.
 ### 1. Director's portfolio website 
-Image 
+![Screenshot of Director's portfolio website](/images/project1.png)
 * **Live Site:** www.justasramanauskas.com
 *   **Description:** Portfolio website, designed to serve as a digital business card. The goal was to create a modern, minimalistic, and fast-loading site. 
 *  **My Role & Key Contributions:**  
