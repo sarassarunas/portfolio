@@ -4,7 +4,7 @@
 For over 10 years, I've been helping businesses and individuals establish their online presence by building, customizing, and managing websites with WordPress. This experience has given me a deep understanding of the entire project lifecycle—from client consultation and design to deployment and maintenance. Building on this solid foundation, I have recently pivoted my focus to modern, full-stack JavaScript development. After completing comprehensive training, I am now deepening my expertise in **React** and am passionate about building more dynamic, scalable, and interactive applications from the ground up.
 
 ## My Live Projects 
-Here are a few websites I have built and deployed. My role in these projects involved everything from  initial setup and design to customization and launch.
+Here are a few websites I have built and deployed. My role in these projects involved everything from  initial setup to customization and launch.
 ### 1. Director's portfolio website 
 ![Screenshot of Director's portfolio website](/images/project1.png)
 * **Live Site:** www.justasramanauskas.com
