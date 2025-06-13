@@ -15,12 +15,22 @@ Here are a few websites I have built and deployed. My role in these projects inv
 	* Ensured the website was mobile-friendly and optimized for fast loading times. 
 * **Tools Used:** WordPress, WPBakery page-builder, Custom JavaScript, jQuery plug-in "magnific-popup", Yoast SEO.
 
-### 2. Website for towing truck and cargo moving services  
+### 2. Website for towing truck and cargo moving services company 
 ![Screenshot of towing truck and crane truck services website](/images/project2.png)
 * **Live Site:** www.zilysonwheels.lt
-*   **Description:** Representational website for company that offers towing truck and cargo moving with crane truck services. The goal was to create a modern and separate two types of services that they provide. 
+*   **Description:** Representational website for company that offers towing truck and cargo moving with crane truck services. The goal was to create a modern looking website and separate two types of services that they provide. 
 *  **My Role & Key Contributions:**  
 	*  Set up WordPress hosting and installation. 
 	*  Customized premium theme with custom CSS.
 	* Ensured the website was mobile-friendly. 
 * **Tools Used:** WordPress, WPBakery page-builder, Yoast SEO.
+
+### 3. Vilniaus Tralas - 24/7 Emergency Towing Service Website  
+![Screenshot of towing service website](/images/project3.png) 
+* **Live Site:** www.vilniaustralas.lt
+*   **Description:** Website for an emergency towing and roadside assistance company. The goal was to make simple design and make it easy to make a call for user in a stressful situation.
+*  **My Role & Key Contributions:**  
+	*  Set up WordPress hosting and installation. 
+	*  Customized premium theme with custom CSS.
+	* Ensured the website was mobile-friendly. 
+* **Tools Used:** WordPress, WPBakery page-builder, LayerSlider plug-in, Yoast SEO.
